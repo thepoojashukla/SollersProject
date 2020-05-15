@@ -1,0 +1,13 @@
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\bin\Debug\netcoreapp3.1\ReflectionAttributeDemo.exe
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\bin\Debug\netcoreapp3.1\ReflectionAttributeDemo.deps.json
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\bin\Debug\netcoreapp3.1\ReflectionAttributeDemo.runtimeconfig.json
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\bin\Debug\netcoreapp3.1\ReflectionAttributeDemo.runtimeconfig.dev.json
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\bin\Debug\netcoreapp3.1\ReflectionAttributeDemo.dll
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\bin\Debug\netcoreapp3.1\ReflectionAttributeDemo.pdb
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\obj\Debug\netcoreapp3.1\ReflectionAttributeDemo.csprojAssemblyReference.cache
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\obj\Debug\netcoreapp3.1\ReflectionAttributeDemo.csproj.CoreCompileInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\obj\Debug\netcoreapp3.1\ReflectionAttributeDemo.AssemblyInfoInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\obj\Debug\netcoreapp3.1\ReflectionAttributeDemo.AssemblyInfo.cs
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\obj\Debug\netcoreapp3.1\ReflectionAttributeDemo.dll
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\obj\Debug\netcoreapp3.1\ReflectionAttributeDemo.pdb
+C:\Users\thepo\Source\Repos\Demonstration\Demonstration\obj\Debug\netcoreapp3.1\ReflectionAttributeDemo.genruntimeconfig.cache
