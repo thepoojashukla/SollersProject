@@ -41,9 +41,9 @@ namespace PropertyDemo
         {
 
             yyy a = new yyy();
-
+            int x = a.i;
+            System.Console.WriteLine(x);
             a.i = 100;
-
             System.Console.WriteLine(a.i);
 
         }

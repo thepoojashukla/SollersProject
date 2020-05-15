@@ -8,6 +8,8 @@ namespace PropertyDemo
         {
             Readonly.GetterName();                      
             GetterAndSetter.GetterSetterMain();
+            OverrideProperty.OverridePropertyMain();
+            AbstractExample.ExampleMain();
 
         }
     }

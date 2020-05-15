@@ -23,7 +23,8 @@ namespace PropertyDemo
             Readonly a = new Readonly();
             int x = a.ff + 9;
             Console.WriteLine(x);
-            Method1();
+            Method1();              //static method can only call static directly(eitherby class name or direct)
+            a.Meth();               // static method calling non static only by instance creation
         }
         public void Meth()
         {
