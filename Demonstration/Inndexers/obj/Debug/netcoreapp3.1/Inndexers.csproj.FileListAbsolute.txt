@@ -1,0 +1,4 @@
+C:\Users\thepo\Source\Repos\Demonstration\Inndexers\obj\Debug\netcoreapp3.1\Inndexers.csprojAssemblyReference.cache
+C:\Users\thepo\Source\Repos\Demonstration\Inndexers\obj\Debug\netcoreapp3.1\Inndexers.csproj.CoreCompileInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\Inndexers\obj\Debug\netcoreapp3.1\Inndexers.AssemblyInfoInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\Inndexers\obj\Debug\netcoreapp3.1\Inndexers.AssemblyInfo.cs

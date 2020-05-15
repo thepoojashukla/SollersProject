@@ -1,0 +1,13 @@
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\obj\Debug\netcoreapp3.1\IInterface.csprojAssemblyReference.cache
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\obj\Debug\netcoreapp3.1\IInterface.csproj.CoreCompileInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\obj\Debug\netcoreapp3.1\IInterface.AssemblyInfoInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\obj\Debug\netcoreapp3.1\IInterface.AssemblyInfo.cs
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\bin\Debug\netcoreapp3.1\IInterface.exe
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\bin\Debug\netcoreapp3.1\IInterface.deps.json
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\bin\Debug\netcoreapp3.1\IInterface.runtimeconfig.json
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\bin\Debug\netcoreapp3.1\IInterface.runtimeconfig.dev.json
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\bin\Debug\netcoreapp3.1\IInterface.dll
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\bin\Debug\netcoreapp3.1\IInterface.pdb
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\obj\Debug\netcoreapp3.1\IInterface.dll
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\obj\Debug\netcoreapp3.1\IInterface.pdb
+C:\Users\thepo\Source\Repos\Demonstration\IInterface\obj\Debug\netcoreapp3.1\IInterface.genruntimeconfig.cache

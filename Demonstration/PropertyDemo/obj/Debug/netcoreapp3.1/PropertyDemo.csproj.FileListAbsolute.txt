@@ -1,0 +1,13 @@
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.exe
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.deps.json
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.runtimeconfig.json
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.runtimeconfig.dev.json
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.dll
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.pdb
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.csprojAssemblyReference.cache
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.AssemblyInfoInputs.cache
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.AssemblyInfo.cs
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.dll
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.pdb
+C:\Users\thepo\Source\Repos\Demonstration\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.genruntimeconfig.cache
