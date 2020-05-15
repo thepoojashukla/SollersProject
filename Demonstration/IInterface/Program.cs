@@ -7,6 +7,9 @@ namespace IInterface
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            CupOfCoffee cf = new CupOfCoffee(true);
+            cf.AddSugar();
+
         }
     }
 }

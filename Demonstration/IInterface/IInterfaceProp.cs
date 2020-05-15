@@ -4,64 +4,59 @@ using System.Text;
 
 namespace IInterface
 {
-    class IInterfaceProp
+    interface IHotDrink
     {
-        interface IHotDrink
+        //properties go here
+        bool Instant
         {
-            //properties go here
-            bool Instant
-            {
-                get;
-                set;
-            }
-
-            //methods go here
-            void AddSugar();
+            get;
+            set;
         }
-        public class CupOfCoffee : IHotDrink
+
+        //methods go here
+        void AddSugar();
+    }
+    public class CupOfCoffee : IHotDrink
+    {
+        private bool instant;
+
+        public CupOfCoffee(bool i)
         {
-            private bool instant;
+            instant = i;
+        }
 
-            public CupOfCoffee(bool i)
+        // Property implementation:
+        public bool Instant
+        {
+            get
             {
-                instant = i;
+                return instant;
             }
 
-            // Property implementation:
-            public bool Instant
+            set
             {
-                get
-                {
-                    return instant;
-                }
-
-                set
-                {
-                    instant = value;
-                }
-            }
-
-            public void AddSugar()
-            {
-                Console.WriteLine("Adding Suggar!");
-            }
-
-            public static void CoMain()
-            {
-                // Create an instance of a Cup of Coffee Class
-                bool i = false;
-                CupOfCoffee myCup = new CupOfCoffee(i);
-
-                Console.WriteLine("myCup's instant value is:" + myCup.Instant);
-
-                // let's change the value of Instant
-                myCup.Instant = true;
-                Console.WriteLine("myCup's instant value is:" + myCup.Instant);
-
-
+                instant = value;
             }
         }
 
+        public void AddSugar()
+        {
+            Console.WriteLine("Adding Suggar!");
+        }
 
+        public static void CoMain()
+        {
+            // Create an instance of a Cup of Coffee Class
+            bool i = false;
+            CupOfCoffee myCup = new CupOfCoffee(i);
+
+            Console.WriteLine("myCup's instant value is:" + myCup.Instant);
+
+            // let's change the value of Instant
+            myCup.Instant = true;
+            Console.WriteLine("myCup's instant value is:" + myCup.Instant);
+
+
+        }
     }
 }
